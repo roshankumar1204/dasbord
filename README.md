@@ -8,6 +8,7 @@ Frontend: React.js with Chart.js for interactive data visualization.
 Project Structure
 plaintext
 Copy code
+
 project-root/
 ├── backend/
 │   ├── config/
@@ -31,6 +32,10 @@ project-root/
 │   │   └── index.js              # Entry point
 │   └── setupProxy.js             # Proxy configuration for API requests
 └── README.md                     # Project readme file
+
+
+
+
 Prerequisites
 Node.js (v14 or higher)
 MongoDB (local or cloud instance)
